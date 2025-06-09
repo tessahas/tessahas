@@ -21,7 +21,7 @@ This page is a home for the things I’ve coded, explored, or broken and fixed a
 *Java (Spring Boot), Flutter, PostgreSQL*  
 Led encryption design for a healthcare app that helps patients manage chronic dietary conditions. Built a custom application-level scheme (AES-256 + RSA-256) to enforce strict field-level and role-based access control—without relying on commercial key management services.
 
-### 📊 **OpenBio Facial Verification Pipeline**
+### 📊 **OpenBio Facial Verification Pipeline** (Not on GitHub, since its proprietary)
 *Python, Bash*  
 Automated benchmarking for a secure open-source biometrics library. Implemented DET curve analysis and integrated a new database (DoppelVer) to improve robustness against false positives.
 
