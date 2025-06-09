@@ -50,13 +50,12 @@ A web scraper/calendar aggregator that collects university events from club and 
 
 ## 🧭 Outside the Terminal
 
-I'm also a varsity sailor, student rep, and event organizer. If I’m not coding or studying basis risk, I’m probably somewhere on the water or hosting a pancake breakfast for 150 undergrads.
+I'm also a varsity sailor, student rep, and event organizer. If I’m not coding or studying basis risk, I’m probably somewhere on the water!
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on cool projects, talking fixed income tech, or swapping sailing stories.  
 Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/tessahason) or explore my repos here.
 
 ---
